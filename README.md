@@ -65,3 +65,27 @@ The dataset used in this project contains real user reviews of ChatGPT. Each ent
 
 ## 🗂️ Project Structure
 
+📁 ChatGPT-Rating-Prediction/ │ ├── 📄 Chatgpt_rating_prediction.ipynb # Main notebook with pipeline ├── 📄 chatgpt_reviews.csv # Dataset (not included here for privacy) ├── 📄 README.md # Project overview and instructions
+
+yaml
+Copy
+Edit
+
+---
+
+## 🤝 Contributing
+
+Contributions, ideas, and suggestions are welcome! Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+- Kaggle for hosting the dataset.
+- Scikit-learn and the open-source community for machine learning tools.
